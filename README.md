@@ -7,3 +7,4 @@
 - Lab 4 <br />
 - Project 1 <br />
 - Lab 5 <br />
+- Lab 6 <br />
